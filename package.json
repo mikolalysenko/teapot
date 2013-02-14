@@ -1,0 +1,26 @@
+{
+  "name": "teapot",
+  "version": "0.0.0",
+  "description": "The Utah Teapot",
+  "main": "teapot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mikolalysenko/teapot.git"
+  },
+  "keywords": [
+    "teapot",
+    "utah",
+    "graphics",
+    "3d",
+    "model",
+    "geometry",
+    "mesh"
+  ],
+  "author": "Mikola Lysenko",
+  "license": "Public Domain",
+  "readmeFilename": "README.md",
+  "gitHead": "5c789bb9fc59900b2e0a1222542574c1815feb23"
+}
