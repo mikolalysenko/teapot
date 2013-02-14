@@ -24,4 +24,6 @@ Credits
 =======
 (c) 1984 Matin Newell.  Public Domain.
 
-JavaScript port by Mikola Lysenko
+CACM cover image by James Arvo and David Kirk.
+
+CommonJS port maintained by Mikola Lysenko
