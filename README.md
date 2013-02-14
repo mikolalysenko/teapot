@@ -14,11 +14,7 @@ Via npm:
 Then you can use the mesh in your projects as follows:
 
     var teapot = require("teapot");
-    
-    //Faces of teapot
     drawMesh(teapot.cells, teapot.positions);
-
-
 
 Credits
 =======
