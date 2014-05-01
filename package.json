@@ -1,6 +1,6 @@
 {
   "name": "teapot",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "The Utah Teapot",
   "main": "teapot.js",
   "scripts": {
